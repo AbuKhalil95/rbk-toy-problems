@@ -53,4 +53,4 @@
   }
 };
 
-var anagrams = allAnagrams('abcde');
+var anagrams = allAnagrams('cde');
